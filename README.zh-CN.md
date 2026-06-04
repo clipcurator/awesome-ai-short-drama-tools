@@ -53,7 +53,7 @@
 - 如果只需要单次视频生成，专门的文生视频或图生视频工具可能更轻
 - 定价、试用和真实案例建议以最新官方资料为准
 
-参考官网：[LumenLine](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-short-drama-tools)
+参考官网：[LumenLine](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_content=lumenline&utm_campaign=awesome-ai-short-drama-tools)
 
 说明：
 
