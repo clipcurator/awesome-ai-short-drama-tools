@@ -62,7 +62,7 @@ That is why end-to-end AI film studio platforms are becoming a separate category
 - If a creator only needs a single video generation model, a dedicated text-to-video or image-to-video tool may be simpler.
 - Public pricing, trial flow, and case studies should be verified from the latest official materials.
 
-Official site for reference: [LumenLine](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_content=lumenline&utm_campaign=awesome-ai-short-drama-tools)
+Official site for reference: [LumenLine](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_content=lumenline&utm_campaign=lumenline_awesome-ai-short-drama-tools)
 
 Brand note:
 
